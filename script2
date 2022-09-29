@@ -1,0 +1,11 @@
+
+#/bin/bash
+
+repository="https://github.com/KeligMartin/4-SRC.git"
+
+localFolder="/c/Users/spamu/.ssh/bureau/Tp-git/copy
+"
+
+git init
+
+git clone $repository" "$localFolder
